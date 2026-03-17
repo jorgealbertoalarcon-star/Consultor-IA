@@ -1,0 +1,10 @@
+# Pega tus claves de API aquí. Solo necesitas una para empezar, las otras son opcionales.
+
+# Obligatoria para los modelos de Google (incluyendo análisis de imagen)
+GEMINI_API_KEY="TU_CLAVE_DE_GEMINI"
+
+# Opcional: Para probar los modelos ultrarrápidos de Groq
+GROQ_API_KEY="TU_CLAVE_DE_GROQ"
+
+# Opcional: Para probar una variedad de modelos de código abierto
+OPENROUTER_API_KEY="TU_CLAVE_DE_OPENROUTER"

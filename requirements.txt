@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+openai
+groq
+pandas
+scikit-learn
+plotly
+Pillow
