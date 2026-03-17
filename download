@@ -4,7 +4,8 @@
 GEMINI_API_KEY="TU_CLAVE_DE_GEMINI"
 
 # Opcional: Para probar los modelos ultrarrápidos de Groq
-GROQ_API_KEY="TU_CLAVE_DE_GROQ"
+GROQ_API_KEY=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
 
 # Opcional: Para probar una variedad de modelos de código abierto
 OPENROUTER_API_KEY="TU_CLAVE_DE_OPENROUTER"
+    
